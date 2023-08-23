@@ -1,9 +1,11 @@
 # Coursera_Python_training
-Learning how to code in Python with Coursera ressources (University of Michigan/IBM)
+Learning how to code in Python with Coursera ressourceS
+
+
+# IBM DATA SCIENCE PROFESSIONAL CERTIFICATE
+
 ## Matplotlib Seaborn : An overview
 - Seaborn is built on top of Matplotlib
-
-
 
 ## Plotly : An Overview
 - Interactive, open-source plotting library
