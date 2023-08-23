@@ -11,6 +11,6 @@ Learning how to code in Python with Coursera ressources (University of Michigan/
 - Includes various types of charts
 - Visualizations can be :
     Displayed in Jupyter notebook and Saved to HTML files
-- Useful link for Plotly : https://plotly.com/python/
+- Useful link for Plotly : https://plotly.com/python/ and API Reference : https://plotly.com/python-api-reference/
 - Useful link forr Dash : https://dash.plotly.com/installation
 - 
