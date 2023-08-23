@@ -1,5 +1,6 @@
-# Coursera_Python_training
-Learning how to code in Python with Coursera ressourceS
+# Python
+
+# UNIVERSITY OF MICHIGAN : DATA STRUCTURES IN PYTHON
 
 
 # IBM DATA SCIENCE PROFESSIONAL CERTIFICATE
