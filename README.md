@@ -1,7 +1,7 @@
 # Coursera_Python_training
 Learning how to code in Python with Coursera ressources (University of Michigan/IBM)
 ## Matplotlib Seaborn : An overview
-
+- Seaborn is built on top of Matplotlib
 
 
 
@@ -12,5 +12,6 @@ Learning how to code in Python with Coursera ressources (University of Michigan/
 - Visualizations can be :
     Displayed in Jupyter notebook and Saved to HTML files
 - Useful link for Plotly : https://plotly.com/python/ and API Reference : https://plotly.com/python-api-reference/
+  
 - Useful link forr Dash : https://dash.plotly.com/installation
-- 
+  
