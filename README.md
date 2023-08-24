@@ -17,6 +17,10 @@
 - Useful link for Plotly : https://plotly.com/python/ and API Reference : https://plotly.com/python-api-reference/
 
 ## Dash : An Overview
-- 
-- Useful link forr Dash : https://dash.plotly.com/installation
+- Open-source User Interface Python library from Plotty
+- Easy to build GUI
+- Declarative and Reactive
+- Rendered in a web browser and can be deployed to servers
+- Inherently cross-platform and mobile ready
+- Useful link for Dash : https://dash.plotly.com/installation
   
