@@ -2,7 +2,7 @@
 
 # I- UNIVERSITY OF MICHIGAN : DATA STRUCTURES IN PYTHON
 
-
+Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 # II- IBM DATA SCIENCE PROFESSIONAL CERTIFICATE
 
 ## Matplotlib Seaborn : An overview
