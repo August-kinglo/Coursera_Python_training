@@ -32,7 +32,7 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 - Visualizations can be :
     Displayed in Jupyter notebook and Saved to HTML files
 - Useful link for Plotly : https://plotly.com/python/ and API Reference : https://plotly.com/python-api-reference/
-#### ii. Command summary
+##### ii. Command summary
 
 #### b. Dash 
 #####  i. An Overview
@@ -42,4 +42,4 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 - Rendered in a web browser and can be deployed to servers
 - Inherently cross-platform and mobile ready
 - Useful link for Dash : https://dash.plotly.com/installation
-#### ii. Command summary
+##### ii. Command summary
