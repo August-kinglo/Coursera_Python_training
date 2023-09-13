@@ -22,7 +22,8 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 ### 4.2. Geospatial data visualization
 
 ### 4.3. Dasboards or interactive visualization
-
+Web-based dashboarding : Plotly|Dash - Panel - Voilà - Streamlit
+Plotting libraries : bokeh - ipywidgets - matplotlib - Bowtie - Flask
 
 #### a. Plotly
 #####  i. An Overview
@@ -30,10 +31,13 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 - Supports over 40 unique chart types
 - Includes various types of charts
 - Visualizations can be :
-    Displayed in Jupyter notebook and Saved to HTML files
+    Displayed in Jupyter notebook and Saved to HTML files or being used in developing python-built web applications using [Dash]
 - Useful link for Plotly : https://plotly.com/python/ and API Reference : https://plotly.com/python-api-reference/
-##### ii. Command summary
-
+##### ii. Command summary : two sub-modules
+- plotly.graph_objects.figure propose a low-level interface to figures, traces and layout
+  
+- plotly.express propose a high-level interface
+  
 #### b. Dash 
 #####  i. An Overview
 - Open-source User Interface Python library from Plotty
@@ -43,3 +47,5 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 - Inherently cross-platform and mobile ready
 - Useful link for Dash : https://dash.plotly.com/installation
 ##### ii. Command summary
+
+## Projects
