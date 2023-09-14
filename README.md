@@ -10,7 +10,9 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 ## 2. Database manipulation 
 
 ## 3. Data analysis
-
+### 3.1. Pandas
+#### a. groupby 
+- Pay attention when using more than two colums to groupby. It is wise to put as_index=False
 ## 4. Data visualization 
 
 ### 4.1. Classic data visualization
