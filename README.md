@@ -17,7 +17,9 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 
 #### a. Matplotlib and Seaborn 
 #####  i. An Overview
-Seaborn is built on top of Matplotlib. There are two ways to plot with those libraries. Either by using pandas (df.plot(kind=type, x=, y=)), or by using directly the plt.type or sns.type.
+Seaborn is built on top of Matplotlib. There are two ways to plot with those libraries. 
+- Either by using pandas (df.plot(kind=type, x=, y=))
+- Or by using directly the plt.type or sns.type
 More informations on : https://seaborn.pydata.org/ ; https://matplotlib.org/ 
 
 ### 4.2. Geospatial data visualization
