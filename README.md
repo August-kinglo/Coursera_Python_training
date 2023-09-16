@@ -53,4 +53,26 @@ Plotting libraries : bokeh - ipywidgets - matplotlib - Bowtie - Flask
 - Useful link for Dash : https://dash.plotly.com/installation
 ##### ii. Command summary
 
+## 4. Data visualization 
+### 4.1 Major machine learning techniques
+- Regression/Estimation
+Prediction continuous values
+- Classification
+Predicting the item class/category of a case
+- Clustering
+Finding the structure of data; summarization
+- Associations
+Associating frequent co-occuring items/events
+- Anomaly detection
+Discovering abnormal and unusual cases
+- Sequence mining
+Predicting next events , click-stream (Markov Model, HMM)
+- Dimension Reduction
+Reducing the size of data (PCA)
+- Recommendations systems
+Recommending items
+- Difference between atificial intelligence, machine learning, and deep learning
+      
+AI components (computer vision, language processing, creativity) ; Machine learning (Classification, clustering, Neural Network); Revolution in ML (Deep learning)
+
 ## Projects
