@@ -13,6 +13,34 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 ### 3.1. Pandas
 #### a. groupby 
 - Pay attention when using more than two colums to groupby. It is wise to put as_index=False
+
+
+### 3.1. Linear regression
+The first step is to split the data into two groups.
+
+msk = np.random.rand(len(df)) < 0.8
+train = cdf[msk]
+test = cdf[~msk]
+
+The second step is to train the distribution
+
+from sklearn import linear_model
+regr = linear_model.LinearRegression()
+train_x = np.asanyarray(train[['Variable_1']])
+train_y = np.asanyarray(train[['Variable_2']])
+regr.fit(train_x, train_y)
+
+The coefficients
+print ('Coefficients: ', regr.coef_)
+print ('Intercept: ',regr.intercept_)
+
+The third step is to plot the fitting line
+
+plt.scatter(train.Variable_1, train.Variable_2,  color='blue')
+plt.plot(train_x, regr.coef_[0][0]*train_x + regr.intercept_[0], '-r')
+plt.xlabel("Variable_1")
+plt.ylabel("Variable_2")
+
 ## 4. Data visualization 
 
 ### 4.1. Classic data visualization
