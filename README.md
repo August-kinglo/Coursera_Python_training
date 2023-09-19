@@ -50,6 +50,14 @@ plt.ylabel("Variable_2")
 Seaborn is built on top of Matplotlib. There are two ways to plot with those libraries. 
 - Either by using pandas (df.plot(kind=type, x=, y=))
 - Or by using directly the plt.type or sns.type
+def style (style):
+#The purpose of this function is to set the style of my graph directly
+plt.style.use(style)
+
+def plot_type (type):
+#The purpose of this function is to set the type of plot I intend to plot directly
+data.plot(kind=type)
+
 More informations on : https://seaborn.pydata.org/ ; https://matplotlib.org/ 
 
 ### 4.2. Geospatial data visualization
