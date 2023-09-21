@@ -81,33 +81,40 @@ Plotting libraries : bokeh - ipywidgets - matplotlib - Bowtie - Flask
   
 #### b. Dash 
 #####  i. An Overview
+
 - Open-source User Interface Python library from Plotty
 - Easy to build GUI
 - Declarative and Reactive
 - Rendered in a web browser and can be deployed to servers
 - Inherently cross-platform and mobile ready
 - Useful link for Dash : https://dash.plotly.com/installation
+
 ##### ii. Command summary
 
-## 4. Data visualization 
+## 4. Machine Learning technics
 ### 4.1 Major machine learning techniques
-- Regression/Estimation
-Prediction continuous values
-- Classification
-Predicting the item class/category of a case
-- Clustering
+
+#### a. Regression/Estimation
+Prediction continuous values. It can be performed through simple linear regression ou multiple linear regression approaches.
+The accuracy of the model can be assessed by some metrics such as MSE, RMSE.
+
+- Classification :
+Predicting the item class/category of a case. It can be performed through - Decision trees, Naïve Bayes, Linear Discriminant Analysis, K-Nearest Neighbor, Logistic Regression, Neural Networks, Support Vector Machines (SVM).
+The accuracy of the model can be assessed with some metrics such as F1score (1) based on the confusion matrix, Jaccard Index (1), Logloss (0).
+
+- Clustering :
 Finding the structure of data; summarization
-- Associations
+- Associations :
 Associating frequent co-occuring items/events
-- Anomaly detection
+- Anomaly detection :
 Discovering abnormal and unusual cases
-- Sequence mining
+- Sequence mining :
 Predicting next events , click-stream (Markov Model, HMM)
-- Dimension Reduction
+- Dimension Reduction :
 Reducing the size of data (PCA)
-- Recommendations systems
+- Recommendations systems :
 Recommending items
-- Difference between atificial intelligence, machine learning, and deep learning
+- Difference between atificial intelligence, machine learning, and deep learning :
       
 AI components (computer vision, language processing, creativity) ; Machine learning (Classification, clustering, Neural Network); Revolution in ML (Deep learning)
 
