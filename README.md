@@ -17,17 +17,22 @@ Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
 
 ### 3.1. Linear regression
 The first step is to split the data into two groups.
+It can be done generally
 
 msk = np.random.rand(len(df)) < 0.8
 train = cdf[msk]
 test = cdf[~msk]
+train_x = np.asanyarray(train[['Variable_1']])
+train_y = np.asanyarray(train[['Variable_2']])
 
-The second step is to train the distribution
+Or it can be done manually
+
+X_train, X_test, y_train, y_test = train_test_split (X, y, test_size=0.2, random_state=4)
+
+The second step is to train the distribution according to the expected model
 
 from sklearn import linear_model
 regr = linear_model.LinearRegression()
-train_x = np.asanyarray(train[['Variable_1']])
-train_y = np.asanyarray(train[['Variable_2']])
 regr.fit(train_x, train_y)
 
 The coefficients
