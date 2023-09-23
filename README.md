@@ -47,6 +47,7 @@ plt.xlabel("Variable_1")
 plt.ylabel("Variable_2")
 
 ## 4. Data visualization 
+![Machine](https://github.com/August-kinglo/Python/assets/113606354/29a2a9c5-f77d-4033-89bd-8b52d135ff27)
 
 ### 4.1. Classic data visualization
 
