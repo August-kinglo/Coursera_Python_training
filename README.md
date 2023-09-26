@@ -1,4 +1,4 @@
-# PYTHON
+# Python
 
 ## 1. Certification
 - https://coursera.org/verify/specialization/4T5YK4V7E5CD
