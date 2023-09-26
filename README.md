@@ -1,19 +1,12 @@
 # PYTHON
 
-# I- UNIVERSITY OF MICHIGAN : DATA STRUCTURES IN PYTHON
-
-Certification obtained: https://coursera.org/verify/specialization/4T5YK4V7E5CD
-# II- IBM DATA SCIENCE PROFESSIONAL CERTIFICATE
-
-## 1. Data science methodology
-
-## 2. Database manipulation 
-
-## 3. Data analysis
+## 1. Certification
+- https://coursera.org/verify/specialization/4T5YK4V7E5CD
+- 
+## 2. Data analysis
 ### 3.1. Pandas
 #### a. groupby 
 - Pay attention when using more than two colums to groupby. It is wise to put as_index=False
-
 
 ### 3.1. Linear regression
 The first step is to split the data into two groups.
@@ -46,7 +39,7 @@ plt.plot(train_x, regr.coef_[0][0]*train_x + regr.intercept_[0], '-r')
 plt.xlabel("Variable_1")
 plt.ylabel("Variable_2")
 
-## 4. Data visualization 
+## 3. Data visualization 
 ![Machine](https://github.com/August-kinglo/Python/assets/113606354/29a2a9c5-f77d-4033-89bd-8b52d135ff27)
 
 ### 4.1. Classic data visualization
