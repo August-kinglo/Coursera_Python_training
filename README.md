@@ -1,8 +1,4 @@
 # Python
-
-## 1. Certification
-- https://coursera.org/verify/specialization/4T5YK4V7E5CD
-- 
 ## 2. Data analysis
 ### 3.1. Pandas
 #### a. groupby 
