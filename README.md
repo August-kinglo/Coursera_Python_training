@@ -1,4 +1,3 @@
-# Python
 # IBM Professional Certificate in Data Science
 ## 1. Data analysis and Machine Learning
 - Library : https://scikit-learn.org
