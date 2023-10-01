@@ -21,3 +21,9 @@
 - Dasboards or interactive visualization : https://plotly.com/python/ and API Reference : https://plotly.com/python-api-reference/
 
 - Dash : https://dash.plotly.com/installation
+
+# Data Science Fundamentals with Python and SQL Specialization
+
+# IBM Machine Learning Professional Certificate
+
+# Applied Data Science with Python Specialization - University of Michigan
